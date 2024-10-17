@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exotic's Esports Journey</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to Exotic's Esports Journey</h1>
+        <nav>
+            <ul>
+                <li><a href="#about">About Me</a></li>
+                <li><a href="#teams">Teams</a></li>
+                <li><a href="#experience">Experience</a></li>
+                <li><a href="#friends">Friends</a></li>
+                <li><a href="#blog">Blog</a></li>
+                <li><a href="#gallery">Gallery</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <main>
+        <section id="about">
+            <h2>About Me</h2>
+            <p>Hello! I’m Exotic, and I have been playing Free Fire for 6 years. Over the past 4 years, I have competed in various esports tournaments, showcasing my skills and strategies.</p>
+            <p>My favorite gun in the game was the M1887; it had a significant impact on my gameplay at the start. However, after it was nerfed, I switched to using the Charge Buster, which has become my go-to weapon in recent tournaments.</p>
+        </section>
+
+        <section id="teams">
+            <h2>Teams</h2>
+            <p>I started my journey with <strong>THE Guardians</strong>, where I learned the basics of competitive play. After that, I joined <strong>Savage Esports</strong>, which helped me refine my skills and take my gameplay to the next level. Eventually, I played for <strong>D-Champs</strong>, where I had some memorable matches.</p>
+            <p>Currently, I participate in T3 scrims with <strong>Infire Esports</strong>, honing my abilities for upcoming competitions.</p>
+        </section>
+
+        <section id="experience">
+            <h2>Experience</h2>
+            <p>Throughout my esports career, I’ve participated in numerous tournaments and scrims, gaining valuable experience in competitive gameplay. Each tournament has taught me something new and has contributed to my growth as a player.</p>
+        </section>
+
+        <section id="friends">
+            <h2>Friends</h2>
+            <p>One of my greatest allies in this journey has been my duo partner, <strong>Iconic</strong>, whom we affectionately called <strong>Chonic</strong>. Together, we’ve tackled numerous challenges and enjoyed countless victories.</p>
+        </section>
+
+        <section id="blog">
+            <h2>Blog</h2>
+            <article>
+                <h3>My First Esports Tournament</h3>
+                <p>Details about your first tournament experience...</p>
+            </article>
+            <article>
+                <h3>Top 5 Tips for Free Fire</h3>
+                <p>Share your best tips for new players...</p>
+            </article>
+        </section>
+
+        <section id="gallery">
+            <h2>Gallery</h2>
+            <p>Check out some of my highlights:</p>
+            <img src="image1.jpg" alt="Highlight 1">
+            <img src="image2.jpg" alt="Highlight 2">
+        </section>
+
+        <section id="contact">
+            <h2>Contact Me</h2>
+            <p>You can reach me on social media!</p>
+            <ul>
+                <li><a href="https://twitter.com/yourprofile">Twitter</a></li>
+                <li><a href="https://instagram.com/yourprofile">Instagram</a></li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Exotic's Esports Journey</p>
+    </footer>
+</body>
+</html>
+
+</body>
+</html>
